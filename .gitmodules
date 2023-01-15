@@ -1,0 +1,12 @@
+[submodule "entry-point"]
+	path = entry-point
+	url = git@github.com:SDE-project-2022-23/entry-point.git
+[submodule "calories-calc"]
+	path = calories-calc
+	url = git@github.com:SDE-project-2022-23/calories-calc.git
+[submodule "data-adapter-recipes"]
+	path = data-adapter-recipes
+	url = git@github.com:SDE-project-2022-23/data-adapter-recipes.git
+[submodule "auth"]
+	path = auth
+	url = git@github.com:SDE-project-2022-23/auth.git
